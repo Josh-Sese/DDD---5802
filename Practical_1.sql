@@ -1,0 +1,1 @@
+SELECT * FROM abc_computer.computer;
